@@ -79,9 +79,9 @@ https://docs.google.com/document/d/1A3TrHO_LED06-lmco-yMYRo2J3ZPOi0O/edit. Uses 
 - https://msfn.org/board/topic/178377-on-decommissioning-of-update-servers-for-2000-xp-and-vista-as-of-july-2019/page/43/#comment-1211254 Other method 3
 
 ### Downloads
-https://www.youtube.com/watch?v=fv5LDGMZRpM Unofficial SP4
-https://drive.google.com/file/d/0BwJH2CazcjsINFZFc1pVdk9mNHM/view?resourcekey=0-LD-TdjUx1rNekTXsKfDCPw and https://drive.google.com/file/d/1t1APf_WMum9LTfYVU850-3druKqUeghv/view sketchier WUMT downloads.
-https://github.com/stdin82/htfx Old Root Certificate Update.
+- https://www.youtube.com/watch?v=fv5LDGMZRpM Unofficial SP4
+- https://drive.google.com/file/d/0BwJH2CazcjsINFZFc1pVdk9mNHM/view?resourcekey=0-LD-TdjUx1rNekTXsKfDCPw and https://drive.google.com/file/d/1t1APf_WMum9LTfYVU850-3druKqUeghv/view sketchier WUMT downloads.
+- https://github.com/stdin82/htfx Old Root Certificate Update.
 
 ## Credits
 
